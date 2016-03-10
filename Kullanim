@@ -1,0 +1,12 @@
+Sistem Programlama HW-01
+Muhammet Tayyip Çankaya 131044054
+10 Mart 2016
+
+PROGRAM NASIL CALISIR?
+
+==>Konsol dan ./HW01_Muhammet_Tayyip_Cankaya_131044054 filename.txt string 
+komutlari girilerek calistirilir.
+==>Eger 3 parametre girilmezse yani hata varsa uyari vererek programdan cikis 
+yapar.
+==>Eger parametrele dogruysa aranan string'in dosyada kac kez ve nerelerde
+bulundugunu hem ekrana hemde .log dosyasina yazar. 
